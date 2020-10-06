@@ -1,0 +1,36 @@
+header {
+    display: flex;
+}
+
+img {
+    height: 120px;
+    margin-right: 10px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+#slogan {
+    margin-top: 0px;
+}
+
+h1,
+h2,
+h3 {
+    color: red;
+}
+
+hr {
+    color: green;
+    background-color: green;
+    height: 3px;
+}
+
+ul ul {
+    list-style-type: circle;
+}
+
+ul ul ul {
+    list-style-type: square;
+}

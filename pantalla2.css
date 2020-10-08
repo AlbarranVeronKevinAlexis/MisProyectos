@@ -1,0 +1,111 @@
+
+body{ 
+    margin: 0;
+	padding: 0;
+	border: 0;
+    display: flex;
+    min-height: 690px;
+    height: 100%;
+    flex-direction: column;
+}
+
+/* .container{
+    height: 100%;
+    background-image:url(./images/82861.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+
+ /*134*/
+.search--container{
+    height: 100%;
+    background-image: url(./images/8286.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn:hover{
+    background-color: rgb(98, 143, 98);
+}
+
+svg{
+    fill: currentColor;
+    color: whitesmoke;
+    height: 20px;
+    width: 20px;
+    margin-left: 2rem;
+}
+
+.profile--pic{
+    margin-top: 1rem;
+    margin-right: 2rem;
+    height: 2.9rem;
+    width: 3rem;
+    border-radius: 30px;
+    margin-left: 2rem;
+}
+.header--search{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+p{
+    color: whitesmoke;
+    margin-left: 2rem;
+}
+p.Saludo{
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.2rem;
+    /*color: rgb(228 , 228, 96);*/
+}
+
+p.search-text1{
+    font-size: 2.5rem;
+    line-height: 0.9;
+}
+
+p.search-text2{
+    font-size: 2.5rem;
+    color: rgb(228 , 228, 96);
+}
+
+input{
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    width: 87%;
+    height: 2rem;
+    border-radius: 25px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 42px;
+}
+
+.search--input{
+    position: relative;
+    width: 83%;
+}
+
+input:focus{
+    outline: 0;
+}
+
+.svg--search{
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 16px;
+    left: 16px;
+    fill: currentColor;
+    color: rgb(179, 173, 173);
+}
+
+/*fin de pantalla2.css*/

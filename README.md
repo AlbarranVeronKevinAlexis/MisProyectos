@@ -1,2 +1,2 @@
 # MisProyectos
-Este repositorio almacenará los proyectos desarrollados en la practica de Desarrollo de aplicaciones Móviles
+Te amo mi niño, y simepre estoyo poensando en ti <3
